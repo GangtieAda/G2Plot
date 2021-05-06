@@ -18,7 +18,7 @@ class Funnel extends React.Component {
   state = {
     data: [
       {
-        name: '曝光',
+        name: '总新增用户',
         count: 120000000,
         hints: [
           {
@@ -27,7 +27,7 @@ class Funnel extends React.Component {
         ],
       },
       {
-        name: '点击',
+        name: '总新增企业',
         count: 80000000,
       },
       {
